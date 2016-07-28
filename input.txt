@@ -1,0 +1,560 @@
+1>------ Build started: Project: ImmersivePrototype, Configuration: Debug x64 ------
+1>  OculusWin32OpenGLRenderWindow.cpp
+1>  Note: including file: d:\iq3\immersiveq\immersiveprototype\OculusVTKWidget.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkSmartPointer.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkSmartPointerBase.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkCommonCoreModule.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkObjectBase.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkIndent.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkSystemIncludes.h
+1>  Note: including file:       d:\iq3\slicer\vtkv7_debug_out\include\vtkWin32Header.h
+1>  Note: including file:        d:\iq3\slicer\vtkv7_debug_out\include\vtkConfigure.h
+1>  Note: including file:        d:\iq3\slicer\vtkv7_debug_out\include\vtkABI.h
+1>  Note: including file:       d:\iq3\slicer\vtkv7_debug_out\include\vtkIOStream.h
+1>  Note: including file:        C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iostream
+1>  Note: including file:         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\istream
+1>  Note: including file:          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ostream
+1>  Note: including file:           C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ios
+1>  Note: including file:            C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocnum
+1>  Note: including file:             C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\climits
+1>  Note: including file:              C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\yvals.h
+1>  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xkeycheck.h
+1>  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h
+1>  Note: including file:                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ConcurrencySal.h
+1>  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\vadefs.h
+1>  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\use_ansi.h
+1>  Note: including file:              C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\limits.h
+1>  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:             C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cmath
+1>  Note: including file:              C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h
+1>  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:              C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xtgmath.h
+1>  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xtr1common
+1>  Note: including file:             C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cstdio
+1>  Note: including file:              C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h
+1>  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\swprintf.inl
+1>  Note: including file:             C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cstdlib
+1>  Note: including file:              C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h
+1>  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:             C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\streambuf
+1>  Note: including file:              C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xiosbase
+1>  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocale
+1>  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cstring
+1>  Note: including file:                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h
+1>  Note: including file:                  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdexcept
+1>  Note: including file:                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\exception
+1>  Note: including file:                  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xstddef
+1>  Note: including file:                   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cstddef
+1>  Note: including file:                    C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stddef.h
+1>  Note: including file:                     C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\initializer_list
+1>  Note: including file:                  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\eh.h
+1>  Note: including file:                   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\malloc.h
+1>  Note: including file:                   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xstring
+1>  Note: including file:                  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xmemory0
+1>  Note: including file:                   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\limits
+1>  Note: including file:                    C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ymath.h
+1>  Note: including file:                    C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cfloat
+1>  Note: including file:                     C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\float.h
+1>  Note: including file:                      C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                      C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtwrn.h
+1>  Note: including file:                       C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                    C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cwchar
+1>  Note: including file:                     C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\wchar.h
+1>  Note: including file:                      C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                      C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\wtime.inl
+1>  Note: including file:                   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\new
+1>  Note: including file:                   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xutility
+1>  Note: including file:                    C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\utility
+1>  Note: including file:                     C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iosfwd
+1>  Note: including file:                      C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdbg.h
+1>  Note: including file:                       C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                     C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\type_traits
+1>  Note: including file:                      C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xrefwrap
+1>  Note: including file:                   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xatomic0.h
+1>  Note: including file:                   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\intrin.h
+1>  Note: including file:                    C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                    C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\setjmp.h
+1>  Note: including file:                     C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                    C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\immintrin.h
+1>  Note: including file:                     C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\wmmintrin.h
+1>  Note: including file:                      C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\nmmintrin.h
+1>  Note: including file:                       C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\smmintrin.h
+1>  Note: including file:                        C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\tmmintrin.h
+1>  Note: including file:                         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\pmmintrin.h
+1>  Note: including file:                          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\emmintrin.h
+1>  Note: including file:                           C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xmmintrin.h
+1>  Note: including file:                            C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\mmintrin.h
+1>  Note: including file:                             C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                    C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ammintrin.h
+1>  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\typeinfo
+1>  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocinfo
+1>  Note: including file:                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocinfo.h
+1>  Note: including file:                  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ctype.h
+1>  Note: including file:                   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\locale.h
+1>  Note: including file:                   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xdebug
+1>  Note: including file:                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xmemory
+1>  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xfacet
+1>  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\system_error
+1>  Note: including file:                C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cerrno
+1>  Note: including file:                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\errno.h
+1>  Note: including file:                  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:               C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\share.h
+1>  Note: including file:        C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\fstream
+1>  Note: including file:        C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iomanip
+1>  Note: including file:         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocmon
+1>  Note: including file:         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xloctime
+1>  Note: including file:          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ctime
+1>  Note: including file:           C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.h
+1>  Note: including file:            C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:            C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl
+1>  Note: including file:       d:\iq3\slicer\vtkv7_debug_out\include\vtkType.h
+1>  Note: including file:        d:\iq3\slicer\vtkv7_debug_out\include\vtk_kwiml.h
+1>  Note: including file:         d:\iq3\slicer\vtkv7_debug_out\include\vtkkwiml/abi.h
+1>  Note: including file:          d:\iq3\slicer\vtkv7_debug_out\include\vtkkwiml\include/kwiml/abi.h
+1>  Note: including file:         d:\iq3\slicer\vtkv7_debug_out\include\vtkkwiml/int.h
+1>  Note: including file:          d:\iq3\slicer\vtkv7_debug_out\include\vtkkwiml\include/kwiml/int.h
+1>  Note: including file:           d:\iq3\slicer\vtkv7_debug_out\include\vtkkwiml\include\kwiml\abi.h
+1>  Note: including file:           C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdint.h
+1>  Note: including file:            C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:       d:\iq3\slicer\vtkv7_debug_out\include\vtkWrappingHints.h
+1>  Note: including file:       d:\iq3\slicer\vtkv7_debug_out\include\vtkOStreamWrapper.h
+1>  Note: including file:       d:\iq3\slicer\vtkv7_debug_out\include\vtkOStrStreamWrapper.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkAtomicTypes.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkAtomic.h
+1>  Note: including file:       d:\iq3\slicer\vtkv7_debug_out\include\vtkAtomicTypeConcepts.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkSphereSource.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkFiltersSourcesModule.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkPolyDataAlgorithm.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkCommonExecutionModelModule.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkAlgorithm.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkObject.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkSetGet.h
+1>  Note: including file:       C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkTimeStamp.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkWeakPointerBase.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkPolyData.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkCommonDataModelModule.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkPointSet.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkDataSet.h
+1>  Note: including file:       d:\iq3\slicer\vtkv7_debug_out\include\vtkDataObject.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkPoints.h
+1>  Note: including file:       d:\iq3\slicer\vtkv7_debug_out\include\vtkDataArray.h
+1>  Note: including file:        d:\iq3\slicer\vtkv7_debug_out\include\vtkAbstractArray.h
+1>  Note: including file:         d:\iq3\slicer\vtkv7_debug_out\include\vtkVariant.h
+1>  Note: including file:          d:\iq3\slicer\vtkv7_debug_out\include\vtkStdString.h
+1>  Note: including file:           C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string
+1>  Note: including file:            C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iterator
+1>  Note: including file:          d:\iq3\slicer\vtkv7_debug_out\include\vtkUnicodeString.h
+1>  Note: including file:           C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\vector
+1>  Note: including file:          d:\iq3\slicer\vtkv7_debug_out\include\vtkVariantInlineOperators.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkCellTypes.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkIntArray.h
+1>  Note: including file:       d:\iq3\slicer\vtkv7_debug_out\include\vtkAOSDataArrayTemplate.h
+1>  Note: including file:        d:\iq3\slicer\vtkv7_debug_out\include\vtkGenericDataArray.h
+1>  Note: including file:         d:\iq3\slicer\vtkv7_debug_out\include\vtkTypeTraits.h
+1>  Note: including file:         d:\iq3\slicer\vtkv7_debug_out\include\vtkGenericDataArrayLookupHelper.h
+1>  Note: including file:          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\algorithm
+1>  Note: including file:          d:\iq3\slicer\vtkv7_debug_out\include\vtkIdList.h
+1>  Note: including file:         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cassert
+1>  Note: including file:          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\assert.h
+1>  Note: including file:           C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:         d:\iq3\slicer\vtkv7_debug_out\include\vtkGenericDataArray.txx
+1>  Note: including file:          d:\iq3\slicer\vtkv7_debug_out\include\vtkGenericDataArray.h
+1>  Note: including file:          d:\iq3\slicer\vtkv7_debug_out\include\vtkMath.h
+1>  Note: including file:           d:\iq3\slicer\vtkv7_debug_out\include\vtkMathConfigure.h
+1>  Note: including file:           C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cassert
+1>  Note: including file:            C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\assert.h
+1>  Note: including file:             C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:          d:\iq3\slicer\vtkv7_debug_out\include\vtkVariantCast.h
+1>  Note: including file:        d:\iq3\slicer\vtkv7_debug_out\include\vtkBuffer.h
+1>  Note: including file:         d:\iq3\slicer\vtkv7_debug_out\include\vtkObjectFactory.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkUnsignedCharArray.h
+1>  Note: including file:       d:\iq3\slicer\vtkv7_debug_out\include\vtkAOSDataArrayTemplate.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkCellType.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkCellLinks.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkAbstractCellLinks.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkCellArray.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkIdTypeArray.h
+1>  Note: including file:       d:\iq3\slicer\vtkv7_debug_out\include\vtkAOSDataArrayTemplate.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkCell.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkPolyDataMapper.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderingCoreModule.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkAutoInit.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkDebugLeaksManager.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkMapper.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkAbstractMapper3D.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkAbstractMapper.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkTexture.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkImageAlgorithm.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkActor.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkProp3D.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkProp.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkImageViewer.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkInteractionImageModule.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkInteractionStyleModule.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkInteractionWidgetsModule.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkFiltersHybridModule.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkImagingHybridModule.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkIOImageModule.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderingAnnotationModule.h
+1>  Note: including file:      d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderingFreeTypeModule.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderingVolumeModule.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkImageMapper.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkMapper2D.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderWindow.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkWindow.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkRenderWindowInteractor.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkCommand.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkInteractorStyleImage.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkInteractorStyleTrackballCamera.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkInteractorStyle.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkInteractorObserver.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkRenderer.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkViewport.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkVolumeCollection.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkPropCollection.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkCollection.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkVolume.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkActorCollection.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkJPEGReader.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkImageReader2.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkCubeSource.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkLegendBoxActor.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkActor2D.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkCoordinate.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkNamedColors.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkCommonColorModule.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkColor.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkTuple.h
+1>  Note: including file:     C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cassert
+1>  Note: including file:      C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\assert.h
+1>  Note: including file:       C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkStringArray.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkCamera.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkRect.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkVector.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\QVTKWidget.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkGUISupportQtModule.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderingOpenGL2Module.h
+1>  Note: including file:     d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderingOpenGLConfigure.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\QVTKInteractor.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\QVTKWin32Header.h
+1>  Note: including file:    D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/QObject
+1>  Note: including file:     d:\qt\qt5.4.0\5.4\msvc2013_64\include\qtcore\qobject.h
+1>  Note: including file:      D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qobjectdefs.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qnamespace.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qconfig.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qfeatures.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qsystemdetection.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qprocessordetection.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qcompilerdetection.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypeinfo.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypetraits.h
+1>  Note: including file:           D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qsysinfo.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qlogging.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qflags.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypeinfo.h
+1>  Note: including file:           D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypetraits.h
+1>  Note: including file:            D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypetraits.h
+1>  Note: including file:           D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qbasicatomic.h
+1>  Note: including file:           D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h
+1>  Note: including file:            D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:           D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic_msvc.h
+1>  Note: including file:            D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qgenericatomic.h
+1>  Note: including file:             D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:             D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypeinfo.h
+1>  Note: including file:              D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypetraits.h
+1>  Note: including file:               D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobalstatic.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h
+1>  Note: including file:           D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qmutex.h
+1>  Note: including file:           D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:           D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h
+1>  Note: including file:            D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qnumeric.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qobjectdefs_impl.h
+1>  Note: including file:      D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qstring.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qchar.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qbytearray.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qrefcount.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qarraydata.h
+1>  Note: including file:        C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdarg.h
+1>  Note: including file:         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:      D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qlist.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qalgorithms.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qiterator.h
+1>  Note: including file:       C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\list
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qbytearraylist.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qlist.h
+1>  Note: including file:      D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qscopedpointer.h
+1>  Note: including file:      D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qmetatype.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qvarlengtharray.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qcontainerfwd.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qisenum.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypetraits.h
+1>  Note: including file:       C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\map
+1>  Note: including file:        C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xtree
+1>  Note: including file:        C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\tuple
+1>  Note: including file:      D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qobject_impl.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkTDxConfigure.h
+1>  Note: including file:   D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtWidgets\QWidget
+1>  Note: including file:    d:\qt\qt5.4.0\5.4\msvc2013_64\include\qtwidgets\qwidget.h
+1>  Note: including file:     D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qwindowdefs.h
+1>  Note: including file:      D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qwindowdefs_win.h
+1>  Note: including file:     D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qmargins.h
+1>  Note: including file:     D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qpaintdevice.h
+1>  Note: including file:      D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qrect.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qsize.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qpoint.h
+1>  Note: including file:     D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qpalette.h
+1>  Note: including file:      D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qcolor.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qrgb.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qprocessordetection.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qstringlist.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qdatastream.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qiodevice.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qpair.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qregexp.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qstringmatcher.h
+1>  Note: including file:      D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qbrush.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qvector.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qmatrix.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qpolygon.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qregion.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qline.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qtransform.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qpainterpath.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qimage.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qpixelformat.h
+1>  Note: including file:       D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qpixmap.h
+1>  Note: including file:        D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qsharedpointer.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qshareddata.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qhash.h
+1>  Note: including file:         D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qsharedpointer_impl.h
+1>  Note: including file:          D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h
+1>  Note: including file:     D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qfont.h
+1>  Note: including file:     D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qfontmetrics.h
+1>  Note: including file:     D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qfontinfo.h
+1>  Note: including file:     D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtWidgets/qsizepolicy.h
+1>  Note: including file:     D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qcursor.h
+1>  Note: including file:     D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qkeysequence.h
+1>  Note: including file:   D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore\QTimer
+1>  Note: including file:    d:\qt\qt5.4.0\5.4\msvc2013_64\include\qtcore\qtimer.h
+1>  Note: including file:     D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qbasictimer.h
+1>  Note: including file:   D:\iQ3\slicer\VTKv7_debug_out\include\vtkToolkits.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkTDxConfigure.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkWin32OpenGLRenderWindow.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkOpenGLRenderWindow.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkWindows.h
+1>  Note: including file:    C:\Program Files (x86)\Windows Kits\8.1\Include\um\windows.h
+1>  Note: including file:     C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winapifamily.h
+1>  Note: including file:     C:\Program Files (x86)\Windows Kits\8.1\Include\shared\sdkddkver.h
+1>  Note: including file:     C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\excpt.h
+1>  Note: including file:      C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:     C:\Program Files (x86)\Windows Kits\8.1\Include\shared\windef.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h
+1>  Note: including file:       C:\Program Files (x86)\Windows Kits\8.1\Include\shared\specstrings.h
+1>  Note: including file:        C:\Program Files (x86)\Windows Kits\8.1\Include\shared\specstrings_strict.h
+1>  Note: including file:         C:\Program Files (x86)\Windows Kits\8.1\Include\shared\specstrings_undef.h
+1>  Note: including file:        C:\Program Files (x86)\Windows Kits\8.1\Include\shared\driverspecs.h
+1>  Note: including file:         c:\program files (x86)\windows kits\8.1\include\shared\sdv_driverspecs.h
+1>  Note: including file:       C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h
+1>  Note: including file:        C:\Program Files (x86)\Windows Kits\8.1\Include\shared\kernelspecs.h
+1>  Note: including file:        C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h
+1>  Note: including file:        C:\Program Files (x86)\Windows Kits\8.1\Include\shared\guiddef.h
+1>  Note: including file:        c:\program files (x86)\windows kits\8.1\include\shared\pshpack4.h
+1>  Note: including file:        c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+1>  Note: including file:        C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h
+1>  Note: including file:        C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+1>  Note: including file:        c:\program files (x86)\windows kits\8.1\include\shared\pshpack4.h
+1>  Note: including file:        c:\program files (x86)\windows kits\8.1\include\shared\pshpack2.h
+1>  Note: including file:        c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+1>  Note: including file:        c:\program files (x86)\windows kits\8.1\include\shared\pshpack2.h
+1>  Note: including file:        C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h
+1>  Note: including file:        C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+1>  Note: including file:        c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+1>  Note: including file:        c:\program files (x86)\windows kits\8.1\include\shared\pshpack8.h
+1>  Note: including file:        c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+1>  Note: including file:        c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+1>  Note: including file:        C:\Program Files (x86)\Windows Kits\8.1\Include\shared\apiset.h
+1>  Note: including file:        C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ktmtypes.h
+1>  Note: including file:     C:\Program Files (x86)\Windows Kits\8.1\Include\um\winbase.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\apisetcconv.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\minwinbase.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\processenv.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\fileapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\debugapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\utilapiset.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\handleapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\errhandlingapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\fibersapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\namedpipeapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\profileapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\heapapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\ioapiset.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\synchapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\interlockedapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\processthreadsapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\memoryapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\threadpoollegacyapiset.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\threadpoolapiset.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\bemapiset.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\jobapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\wow64apiset.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\libloaderapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\securitybaseapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\namespaceapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\systemtopologyapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\processtopologyapi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\securityappcontainer.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\realtimeapiset.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\timezoneapi.h
+1>  Note: including file:     C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+1>  Note: including file:     C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\tvout.h
+1>  Note: including file:     C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnls.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\datetimeapi.h
+1>  Note: including file:     C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincon.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\consoleapi.h
+1>  Note: including file:     C:\Program Files (x86)\Windows Kits\8.1\Include\um\winver.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\verrsrc.h
+1>  Note: including file:     C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\um\reason.h
+1>  Note: including file:     C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnetwk.h
+1>  Note: including file:      C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wnnc.h
+1>  Note: including file:     C:\Program Files (x86)\Windows Kits\8.1\Include\shared\stralign.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkProbeFilter.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkFiltersCoreModule.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkDataSetAlgorithm.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkDataSetAttributes.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkFieldData.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkPointSource.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkStreamTracer.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkFiltersFlowPathsModule.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkInitialValueProblemSolver.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkCommonMathModule.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkContourFilter.h
+1>  Note: including file:   d:\iq3\slicer\vtkv7_debug_out\include\vtkContourValues.h
+1>  Note: including file:    d:\iq3\slicer\vtkv7_debug_out\include\vtkCommonMiscModule.h
+1>  Note: including file:  D:\iQ3\immersiveQ\SDK\3DxWareSDK\Inc\si.h
+1>  Note: including file:   d:\iq3\immersiveq\sdk\3dxwaresdk\inc\spwmacro.h
+1>  Note: including file:   d:\iq3\immersiveq\sdk\3dxwaresdk\inc\spwdata.h
+1>  Note: including file:   d:\iq3\immersiveq\sdk\3dxwaresdk\inc\siSync.h
+1>  Note: including file:    d:\iq3\immersiveq\sdk\3dxwaresdk\inc\siSyncDefines.h
+1>  Note: including file:    d:\iq3\immersiveq\sdk\3dxwaresdk\inc\siSyncPriv.h
+1>  Note: including file:   d:\iq3\immersiveq\sdk\3dxwaresdk\inc\V3DKey.h
+1>  Note: including file:   d:\iq3\immersiveq\sdk\3dxwaresdk\inc\V3DCMD.h
+1>  Note: including file:   d:\iq3\immersiveq\sdk\3dxwaresdk\inc\spwerror.h
+1>  Note: including file:   d:\iq3\immersiveq\sdk\3dxwaresdk\inc\siDefines.h
+1>  Note: including file:  D:\iQ3\immersiveQ\SDK\3DxWareSDK\Inc\siapp.h
+1>d:\iq3\immersiveq\immersiveprototype\OculusVTKWidget.h(54): error C2146: syntax error : missing ';' before identifier 'MapVKToKeyCode'
+1>d:\iq3\immersiveq\immersiveprototype\OculusVTKWidget.h(54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+1>d:\iq3\immersiveq\immersiveprototype\OculusVTKWidget.h(54): warning C4183: 'MapVKToKeyCode': missing return type; assumed to be a member function returning 'int'
+1>d:\iq3\immersiveq\immersiveprototype\OculusVTKWidget.h(73): error C2065: 'OculusWin32OpenGLRenderWindow' : undeclared identifier
+1>d:\iq3\immersiveq\immersiveprototype\OculusVTKWidget.h(73): error C2923: 'vtkSmartPointer' : 'OculusWin32OpenGLRenderWindow' is not a valid template type argument for parameter 'T'
+1>  Note: including file: d:\iq3\immersiveq\immersiveprototype\OculusWin32OpenGLRenderWindow.h
+1>  Note: including file:  D:\iQ3\immersiveQ\ImmersivePrototype\3rdparty\Util/OptionMenu.h
+1>  Note: including file:   D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Include\OVR_Kernel.h
+1>  Note: including file:    d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_Types.h
+1>  Note: including file:     d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Compiler.h
+1>  Note: including file:     d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Nullptr.h
+1>  Note: including file:      d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Types.h
+1>  Note: including file:    d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_Allocator.h
+1>  Note: including file:    d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_RefCount.h
+1>  Note: including file:    d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_Log.h
+1>  Note: including file:     d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\../Kernel/OVR_Delegates.h
+1>  Note: including file:     d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\../Kernel//OVR_Observer.h
+1>  Note: including file:      d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Atomic.h
+1>  Note: including file:      d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Array.h
+1>  Note: including file:       d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_ContainerAllocator.h
+1>  Note: including file:      d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_String.h
+1>  Note: including file:       d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_UTF8Util.h
+1>  Note: including file:       d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Std.h
+1>  Note: including file:        C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\wctype.h
+1>  Note: including file:         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:       d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Alg.h
+1>  Note: including file:      d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Hash.h
+1>  Note: including file:    d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_Math.h
+1>  Note: including file:     C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\assert.h
+1>  Note: including file:      C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
+1>  Note: including file:     C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h
+1>  Note: including file:    d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_System.h
+1>  Note: including file:    d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_Timer.h
+1>  Note: including file:    d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_SysFile.h
+1>  Note: including file:     d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_File.h
+1>  Note: including file:   D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Src\Kernel/OVR_KeyCodes.h
+1>  Note: including file:   d:\iq3\immersiveq\immersiveprototype\3rdparty\util\../Render/Render_Device.h
+1>  Note: including file:    D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Src\Kernel/OVR_Color.h
+1>  Note: including file:    D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Src\OVR_CAPI.h
+1>  Note: including file:     d:\iq3\immersiveq\sdk\oculussdk\libovr\src\OVR_CAPI_Keys.h
+1>  Note: including file:    D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Src\OVR_Stereo.h
+1>  Note: including file:     d:\iq3\immersiveq\sdk\oculussdk\libovr\src\Sensors/OVR_DeviceConstants.h
+1>  Note: including file:     d:\iq3\immersiveq\sdk\oculussdk\libovr\src\Displays/OVR_Display.h
+1>  Note: including file:     d:\iq3\immersiveq\sdk\oculussdk\libovr\src\OVR_Profile.h
+1>  Note: including file:      d:\iq3\immersiveq\sdk\oculussdk\libovr\src\OVR_CAPI_Keys.h
+1>  Note: including file:      d:\iq3\immersiveq\sdk\oculussdk\libovr\src\Kernel/OVR_StringHash.h
+1>  Note: including file:   d:\iq3\immersiveq\immersiveprototype\3rdparty\util\../Platform/Gamepad.h
+1>  Note: including file:   d:\iq3\immersiveq\immersiveprototype\3rdparty\util\../Platform/Platform.h
+1>  Note: including file:   D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Src\Util/Util_Render_Stereo.h
+1>  Note: including file:    d:\iq3\immersiveq\sdk\oculussdk\libovr\src\util\../Tracking/Tracking_SensorStateReader.h
+1>  Note: including file:     d:\iq3\immersiveq\sdk\oculussdk\libovr\src\tracking\../Kernel/OVR_Lockless.h
+1>  Note: including file:     d:\iq3\immersiveq\sdk\oculussdk\libovr\src\tracking\Tracking_SensorState.h
+1>  Note: including file:      d:\iq3\immersiveq\sdk\oculussdk\libovr\src\tracking\Tracking_PoseState.h
+1>  Note: including file:      d:\iq3\immersiveq\sdk\oculussdk\libovr\src\tracking\../Kernel/OVR_SharedMemory.h
+1>  Note: including file:      d:\iq3\immersiveq\sdk\oculussdk\libovr\src\tracking\../Util/Util_LatencyTest2State.h
+1>  Note: including file:  D:\iQ3\immersiveQ\ImmersivePrototype\3rdparty\Util/RenderProfiler.h
+1>  Note: including file:  d:\iq3\immersiveq\immersiveprototype\Player.h
+1>  Note: including file:   D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore\QtGlobal
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkRenderingOpenGLModule.h
+1>  Note: including file:  D:\iQ3\slicer\VTKv7_debug_out\include\vtkOpenGLRenderer.h
+1>  Note: including file: D:\iQ3\immersiveQ\ImmersivePrototype\3rdparty\Render/Render_GL_Device.h
+1>  Note: including file:  D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Src\CAPI/GL/CAPI_GLE.h
+1>  Note: including file:   d:\iq3\immersiveq\sdk\oculussdk\libovr\src\capi\gl\CAPI_GLE_GL.h
+1>  Note: including file: D:\iQ3\slicer\VTKv7_debug_out\include\vtkObjectFactory.h
+1>  Note: including file: D:\iQ3\immersiveQ\SDK\CAPRI_V3.16.3_SIK\include\capri.h
+1>  Note: including file:  d:\iq3\immersiveq\sdk\capri_v3.16.3_sik\include\capri_codes.h
+1>  Note: including file:   d:\iq3\immersiveq\sdk\capri_v3.16.3_sik\include\capri_version.h
+1>  Note: including file: D:\iQ3\slicer\VTKv7_debug_out\include\vtkOpenGLError.h
+1>  Note: including file:  d:\iq3\slicer\vtkv7_debug_out\include\vtk_glew.h
+1>  Note: including file:   D:\iQ3\slicer\VTKv7_debug_out\include\vtkglew/include/GL/glew.h
+1>D:\iQ3\slicer\VTKv7_debug_out\include\vtkglew/include/GL/glew.h(85): fatal error C1189: #error :  gl.h included before glew.h
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

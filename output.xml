@@ -1,0 +1,811 @@
+<root>
+<depth0 src="OculusWin32OpenGLRenderWindow.cpp">
+<depth1 src="d:\iq3\immersiveq\immersiveprototype\OculusVTKWidget.h">
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkSmartPointer.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkSmartPointerBase.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCommonCoreModule.h"/>
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkObjectBase.h">
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkIndent.h">
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkSystemIncludes.h">
+<depth7 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkWin32Header.h">
+<depth8 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkConfigure.h"/>
+<depth8 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkABI.h"/>
+</depth7>
+<depth7 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkIOStream.h">
+<depth8 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iostream">
+<depth9 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\istream">
+<depth10 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ostream">
+<depth11 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ios">
+<depth12 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocnum">
+<depth13 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\climits">
+<depth14 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\yvals.h">
+<depth15 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xkeycheck.h"/>
+<depth15 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h">
+<depth16 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h">
+<depth17 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ConcurrencySal.h"/>
+</depth16>
+<depth16 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\vadefs.h"/>
+</depth15>
+<depth15 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\use_ansi.h"/>
+</depth14>
+<depth14 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\limits.h">
+<depth15 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth14>
+</depth13>
+<depth13 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cmath">
+<depth14 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h">
+<depth15 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth14>
+<depth14 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xtgmath.h">
+<depth15 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xtr1common"/>
+</depth14>
+</depth13>
+<depth13 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cstdio">
+<depth14 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h">
+<depth15 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+<depth15 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\swprintf.inl"/>
+</depth14>
+</depth13>
+<depth13 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cstdlib">
+<depth14 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h">
+<depth15 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth14>
+</depth13>
+<depth13 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\streambuf">
+<depth14 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xiosbase">
+<depth15 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocale">
+<depth16 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cstring">
+<depth17 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h">
+<depth18 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth17>
+</depth16>
+<depth16 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdexcept">
+<depth17 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\exception">
+<depth18 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xstddef">
+<depth19 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cstddef">
+<depth20 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stddef.h">
+<depth21 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth20>
+</depth19>
+<depth19 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\initializer_list"/>
+</depth18>
+<depth18 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\eh.h">
+<depth19 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth18>
+<depth18 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\malloc.h">
+<depth19 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth18>
+</depth17>
+<depth17 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xstring">
+<depth18 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xmemory0">
+<depth19 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\limits">
+<depth20 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ymath.h"/>
+<depth20 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cfloat">
+<depth21 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\float.h">
+<depth22 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+<depth22 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtwrn.h">
+<depth23 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth22>
+</depth21>
+</depth20>
+<depth20 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cwchar">
+<depth21 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\wchar.h">
+<depth22 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+<depth22 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\wtime.inl"/>
+</depth21>
+</depth20>
+</depth19>
+<depth19 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\new"/>
+<depth19 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xutility">
+<depth20 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\utility">
+<depth21 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iosfwd">
+<depth22 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdbg.h">
+<depth23 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth22>
+</depth21>
+<depth21 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\type_traits">
+<depth22 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xrefwrap"/>
+</depth21>
+</depth20>
+</depth19>
+<depth19 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xatomic0.h"/>
+<depth19 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\intrin.h">
+<depth20 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+<depth20 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\setjmp.h">
+<depth21 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth20>
+<depth20 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\immintrin.h">
+<depth21 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\wmmintrin.h">
+<depth22 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\nmmintrin.h">
+<depth23 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\smmintrin.h">
+<depth24 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\tmmintrin.h">
+<depth25 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\pmmintrin.h">
+<depth26 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\emmintrin.h">
+<depth27 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xmmintrin.h">
+<depth28 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\mmintrin.h">
+<depth29 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth28>
+</depth27>
+</depth26>
+</depth25>
+</depth24>
+</depth23>
+</depth22>
+</depth21>
+</depth20>
+<depth20 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ammintrin.h"/>
+</depth19>
+</depth18>
+</depth17>
+</depth16>
+<depth16 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\typeinfo"/>
+<depth16 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocinfo">
+<depth17 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocinfo.h">
+<depth18 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ctype.h">
+<depth19 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth18>
+<depth18 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\locale.h">
+<depth19 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth18>
+</depth17>
+</depth16>
+<depth16 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xdebug">
+<depth17 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xmemory"/>
+</depth16>
+<depth16 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xfacet"/>
+</depth15>
+<depth15 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\system_error">
+<depth16 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cerrno">
+<depth17 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\errno.h">
+<depth18 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth17>
+</depth16>
+</depth15>
+<depth15 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\share.h"/>
+</depth14>
+</depth13>
+</depth12>
+</depth11>
+</depth10>
+</depth9>
+</depth8>
+<depth8 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\fstream"/>
+<depth8 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iomanip">
+<depth9 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocmon"/>
+<depth9 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xloctime">
+<depth10 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ctime">
+<depth11 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.h">
+<depth12 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+<depth12 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl"/>
+</depth11>
+</depth10>
+</depth9>
+</depth8>
+</depth7>
+<depth7 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkType.h">
+<depth8 src="d:\iq3\slicer\vtkv7_debug_out\include\vtk_kwiml.h">
+<depth9 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkkwiml/abi.h">
+<depth10 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkkwiml\include/kwiml/abi.h"/>
+</depth9>
+<depth9 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkkwiml/int.h">
+<depth10 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkkwiml\include/kwiml/int.h">
+<depth11 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkkwiml\include\kwiml\abi.h"/>
+<depth11 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdint.h">
+<depth12 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth11>
+</depth10>
+</depth9>
+</depth8>
+</depth7>
+<depth7 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkWrappingHints.h"/>
+<depth7 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkOStreamWrapper.h"/>
+<depth7 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkOStrStreamWrapper.h"/>
+</depth6>
+</depth5>
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkAtomicTypes.h">
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkAtomic.h">
+<depth7 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkAtomicTypeConcepts.h"/>
+</depth6>
+</depth5>
+</depth4>
+</depth3>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkSphereSource.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkFiltersSourcesModule.h"/>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkPolyDataAlgorithm.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCommonExecutionModelModule.h"/>
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkAlgorithm.h">
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkObject.h">
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkSetGet.h">
+<depth7 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h"/>
+</depth6>
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkTimeStamp.h"/>
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkWeakPointerBase.h"/>
+</depth5>
+</depth4>
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkPolyData.h">
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCommonDataModelModule.h"/>
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkPointSet.h">
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkDataSet.h">
+<depth7 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkDataObject.h"/>
+</depth6>
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkPoints.h">
+<depth7 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkDataArray.h">
+<depth8 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkAbstractArray.h">
+<depth9 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkVariant.h">
+<depth10 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkStdString.h">
+<depth11 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string">
+<depth12 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iterator"/>
+</depth11>
+</depth10>
+<depth10 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkUnicodeString.h">
+<depth11 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\vector"/>
+</depth10>
+<depth10 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkVariantInlineOperators.h"/>
+</depth9>
+</depth8>
+</depth7>
+</depth6>
+</depth5>
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCellTypes.h">
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkIntArray.h">
+<depth7 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkAOSDataArrayTemplate.h">
+<depth8 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkGenericDataArray.h">
+<depth9 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkTypeTraits.h"/>
+<depth9 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkGenericDataArrayLookupHelper.h">
+<depth10 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\algorithm"/>
+<depth10 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkIdList.h"/>
+</depth9>
+<depth9 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cassert">
+<depth10 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\assert.h">
+<depth11 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth10>
+</depth9>
+<depth9 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkGenericDataArray.txx">
+<depth10 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkGenericDataArray.h"/>
+<depth10 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkMath.h">
+<depth11 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkMathConfigure.h"/>
+<depth11 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cassert">
+<depth12 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\assert.h">
+<depth13 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth12>
+</depth11>
+</depth10>
+<depth10 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkVariantCast.h"/>
+</depth9>
+</depth8>
+<depth8 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkBuffer.h">
+<depth9 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkObjectFactory.h"/>
+</depth8>
+</depth7>
+</depth6>
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkUnsignedCharArray.h">
+<depth7 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkAOSDataArrayTemplate.h"/>
+</depth6>
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCellType.h"/>
+</depth5>
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCellLinks.h">
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkAbstractCellLinks.h"/>
+</depth5>
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCellArray.h">
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkIdTypeArray.h">
+<depth7 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkAOSDataArrayTemplate.h"/>
+</depth6>
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCell.h"/>
+</depth5>
+</depth4>
+</depth3>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkPolyDataMapper.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderingCoreModule.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkAutoInit.h">
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkDebugLeaksManager.h"/>
+</depth4>
+</depth3>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkMapper.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkAbstractMapper3D.h">
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkAbstractMapper.h"/>
+</depth4>
+</depth3>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkTexture.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkImageAlgorithm.h"/>
+</depth3>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkActor.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkProp3D.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkProp.h"/>
+</depth3>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkImageViewer.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkInteractionImageModule.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkInteractionStyleModule.h"/>
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkInteractionWidgetsModule.h">
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkFiltersHybridModule.h"/>
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkImagingHybridModule.h">
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkIOImageModule.h"/>
+</depth5>
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderingAnnotationModule.h">
+<depth6 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderingFreeTypeModule.h"/>
+</depth5>
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderingVolumeModule.h"/>
+</depth4>
+</depth3>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkImageMapper.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkMapper2D.h"/>
+</depth3>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderWindow.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkWindow.h"/>
+</depth3>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkRenderWindowInteractor.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCommand.h"/>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkInteractorStyleImage.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkInteractorStyleTrackballCamera.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkInteractorStyle.h">
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkInteractorObserver.h"/>
+</depth4>
+</depth3>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkRenderer.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkViewport.h"/>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkVolumeCollection.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkPropCollection.h">
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCollection.h"/>
+</depth4>
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkVolume.h"/>
+</depth3>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkActorCollection.h"/>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkJPEGReader.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkImageReader2.h"/>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkCubeSource.h"/>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkLegendBoxActor.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkActor2D.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCoordinate.h"/>
+</depth3>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkNamedColors.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCommonColorModule.h"/>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkColor.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkTuple.h">
+<depth5 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cassert">
+<depth6 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\assert.h">
+<depth7 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth6>
+</depth5>
+</depth4>
+</depth3>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkStringArray.h"/>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkCamera.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkRect.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkVector.h"/>
+</depth3>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\QVTKWidget.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkGUISupportQtModule.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderingOpenGL2Module.h">
+<depth5 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkRenderingOpenGLConfigure.h"/>
+</depth4>
+</depth3>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\QVTKInteractor.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\QVTKWin32Header.h"/>
+<depth4 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/QObject">
+<depth5 src="d:\qt\qt5.4.0\5.4\msvc2013_64\include\qtcore\qobject.h">
+<depth6 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qobjectdefs.h">
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qnamespace.h">
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h">
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qconfig.h"/>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qfeatures.h"/>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qsystemdetection.h"/>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qprocessordetection.h"/>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qcompilerdetection.h"/>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypeinfo.h">
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypetraits.h">
+<depth11 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+</depth10>
+</depth9>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qsysinfo.h">
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+</depth9>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qlogging.h">
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+</depth9>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qflags.h">
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypeinfo.h">
+<depth11 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypetraits.h">
+<depth12 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+</depth11>
+</depth10>
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypetraits.h">
+<depth11 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+</depth10>
+</depth9>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h">
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qbasicatomic.h">
+<depth11 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h">
+<depth12 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+</depth11>
+<depth11 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic_msvc.h">
+<depth12 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qgenericatomic.h">
+<depth13 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+<depth13 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypeinfo.h">
+<depth14 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypetraits.h">
+<depth15 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+</depth14>
+</depth13>
+</depth12>
+</depth11>
+</depth10>
+</depth9>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobalstatic.h">
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h">
+<depth11 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+</depth10>
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qmutex.h">
+<depth11 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+<depth11 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h">
+<depth12 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+</depth11>
+</depth10>
+</depth9>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qnumeric.h">
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qglobal.h"/>
+</depth9>
+</depth8>
+</depth7>
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qobjectdefs_impl.h"/>
+</depth6>
+<depth6 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qstring.h">
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qchar.h"/>
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qbytearray.h">
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qrefcount.h">
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h"/>
+</depth8>
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qarraydata.h"/>
+<depth8 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdarg.h">
+<depth9 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth8>
+</depth7>
+</depth6>
+<depth6 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qlist.h">
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qalgorithms.h"/>
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qiterator.h"/>
+<depth7 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\list"/>
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qbytearraylist.h">
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qlist.h"/>
+</depth7>
+</depth6>
+<depth6 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qscopedpointer.h"/>
+<depth6 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qmetatype.h">
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h"/>
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qvarlengtharray.h">
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qcontainerfwd.h"/>
+</depth7>
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qisenum.h"/>
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qtypetraits.h"/>
+<depth7 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\map">
+<depth8 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xtree"/>
+<depth8 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\tuple"/>
+</depth7>
+</depth6>
+<depth6 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qobject_impl.h"/>
+</depth5>
+</depth4>
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkTDxConfigure.h"/>
+</depth3>
+<depth3 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtWidgets\QWidget">
+<depth4 src="d:\qt\qt5.4.0\5.4\msvc2013_64\include\qtwidgets\qwidget.h">
+<depth5 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qwindowdefs.h">
+<depth6 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qwindowdefs_win.h"/>
+</depth5>
+<depth5 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qmargins.h"/>
+<depth5 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qpaintdevice.h">
+<depth6 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qrect.h">
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qsize.h"/>
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qpoint.h"/>
+</depth6>
+</depth5>
+<depth5 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qpalette.h">
+<depth6 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qcolor.h">
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qrgb.h">
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qprocessordetection.h"/>
+</depth7>
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qstringlist.h">
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qdatastream.h">
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qiodevice.h"/>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qpair.h"/>
+</depth8>
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qregexp.h"/>
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qstringmatcher.h"/>
+</depth7>
+</depth6>
+<depth6 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qbrush.h">
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qvector.h"/>
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qmatrix.h">
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qpolygon.h"/>
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qregion.h">
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h"/>
+</depth8>
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qline.h"/>
+</depth7>
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qtransform.h">
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qpainterpath.h"/>
+</depth7>
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qimage.h">
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qpixelformat.h"/>
+</depth7>
+<depth7 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qpixmap.h">
+<depth8 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qsharedpointer.h">
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h"/>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qshareddata.h">
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h"/>
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qhash.h"/>
+</depth9>
+<depth9 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qsharedpointer_impl.h">
+<depth10 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qatomic.h"/>
+</depth9>
+</depth8>
+</depth7>
+</depth6>
+</depth5>
+<depth5 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qfont.h"/>
+<depth5 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qfontmetrics.h"/>
+<depth5 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qfontinfo.h"/>
+<depth5 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtWidgets/qsizepolicy.h"/>
+<depth5 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qcursor.h"/>
+<depth5 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtGui/qkeysequence.h"/>
+</depth4>
+</depth3>
+<depth3 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore\QTimer">
+<depth4 src="d:\qt\qt5.4.0\5.4\msvc2013_64\include\qtcore\qtimer.h">
+<depth5 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore/qbasictimer.h"/>
+</depth4>
+</depth3>
+<depth3 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkToolkits.h"/>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkTDxConfigure.h"/>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkWin32OpenGLRenderWindow.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkOpenGLRenderWindow.h"/>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkWindows.h">
+<depth4 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\windows.h">
+<depth5 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winapifamily.h"/>
+<depth5 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\sdkddkver.h"/>
+<depth5 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\excpt.h">
+<depth6 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth5>
+<depth5 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\windef.h">
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h">
+<depth7 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\specstrings.h">
+<depth8 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\specstrings_strict.h">
+<depth9 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\specstrings_undef.h"/>
+</depth8>
+<depth8 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\driverspecs.h">
+<depth9 src="c:\program files (x86)\windows kits\8.1\include\shared\sdv_driverspecs.h"/>
+</depth8>
+</depth7>
+<depth7 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h">
+<depth8 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\kernelspecs.h"/>
+<depth8 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h"/>
+<depth8 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\guiddef.h"/>
+<depth8 src="c:\program files (x86)\windows kits\8.1\include\shared\pshpack4.h"/>
+<depth8 src="c:\program files (x86)\windows kits\8.1\include\shared\poppack.h"/>
+<depth8 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h"/>
+<depth8 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h"/>
+<depth8 src="c:\program files (x86)\windows kits\8.1\include\shared\pshpack4.h"/>
+<depth8 src="c:\program files (x86)\windows kits\8.1\include\shared\pshpack2.h"/>
+<depth8 src="c:\program files (x86)\windows kits\8.1\include\shared\poppack.h"/>
+<depth8 src="c:\program files (x86)\windows kits\8.1\include\shared\pshpack2.h"/>
+<depth8 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h"/>
+<depth8 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h"/>
+<depth8 src="c:\program files (x86)\windows kits\8.1\include\shared\poppack.h"/>
+<depth8 src="c:\program files (x86)\windows kits\8.1\include\shared\pshpack8.h"/>
+<depth8 src="c:\program files (x86)\windows kits\8.1\include\shared\poppack.h"/>
+<depth8 src="c:\program files (x86)\windows kits\8.1\include\shared\poppack.h"/>
+<depth8 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\apiset.h"/>
+<depth8 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ktmtypes.h"/>
+</depth7>
+</depth6>
+</depth5>
+<depth5 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\winbase.h">
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\apisetcconv.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\minwinbase.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\processenv.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\fileapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\debugapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\utilapiset.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\handleapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\errhandlingapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\fibersapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\namedpipeapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\profileapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\heapapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\ioapiset.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\synchapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\interlockedapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\processthreadsapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\memoryapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\threadpoollegacyapiset.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\threadpoolapiset.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\bemapiset.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\jobapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\wow64apiset.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\libloaderapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\securitybaseapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\namespaceapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\systemtopologyapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\processtopologyapi.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\securityappcontainer.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\realtimeapiset.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\timezoneapi.h"/>
+</depth5>
+<depth5 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h">
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h"/>
+</depth5>
+<depth5 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h">
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h"/>
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\tvout.h"/>
+</depth5>
+<depth5 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnls.h">
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\datetimeapi.h"/>
+</depth5>
+<depth5 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincon.h">
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\consoleapi.h"/>
+</depth5>
+<depth5 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\winver.h">
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\verrsrc.h"/>
+</depth5>
+<depth5 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h">
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\reason.h"/>
+</depth5>
+<depth5 src="C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnetwk.h">
+<depth6 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wnnc.h"/>
+</depth5>
+<depth5 src="C:\Program Files (x86)\Windows Kits\8.1\Include\shared\stralign.h"/>
+</depth4>
+</depth3>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkProbeFilter.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkFiltersCoreModule.h"/>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkDataSetAlgorithm.h"/>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkDataSetAttributes.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkFieldData.h"/>
+</depth3>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkPointSource.h"/>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkStreamTracer.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkFiltersFlowPathsModule.h"/>
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkInitialValueProblemSolver.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCommonMathModule.h"/>
+</depth3>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkContourFilter.h">
+<depth3 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkContourValues.h">
+<depth4 src="d:\iq3\slicer\vtkv7_debug_out\include\vtkCommonMiscModule.h"/>
+</depth3>
+</depth2>
+<depth2 src="D:\iQ3\immersiveQ\SDK\3DxWareSDK\Inc\si.h">
+<depth3 src="d:\iq3\immersiveq\sdk\3dxwaresdk\inc\spwmacro.h"/>
+<depth3 src="d:\iq3\immersiveq\sdk\3dxwaresdk\inc\spwdata.h"/>
+<depth3 src="d:\iq3\immersiveq\sdk\3dxwaresdk\inc\siSync.h">
+<depth4 src="d:\iq3\immersiveq\sdk\3dxwaresdk\inc\siSyncDefines.h"/>
+<depth4 src="d:\iq3\immersiveq\sdk\3dxwaresdk\inc\siSyncPriv.h"/>
+</depth3>
+<depth3 src="d:\iq3\immersiveq\sdk\3dxwaresdk\inc\V3DKey.h"/>
+<depth3 src="d:\iq3\immersiveq\sdk\3dxwaresdk\inc\V3DCMD.h"/>
+<depth3 src="d:\iq3\immersiveq\sdk\3dxwaresdk\inc\spwerror.h"/>
+<depth3 src="d:\iq3\immersiveq\sdk\3dxwaresdk\inc\siDefines.h"/>
+</depth2>
+<depth2 src="D:\iQ3\immersiveQ\SDK\3DxWareSDK\Inc\siapp.h"/>
+</depth1>
+<depth1 src="d:\iq3\immersiveq\immersiveprototype\OculusWin32OpenGLRenderWindow.h">
+<depth2 src="D:\iQ3\immersiveQ\ImmersivePrototype\3rdparty\Util/OptionMenu.h">
+<depth3 src="D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Include\OVR_Kernel.h">
+<depth4 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_Types.h">
+<depth5 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Compiler.h"/>
+<depth5 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Nullptr.h">
+<depth6 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Types.h"/>
+</depth5>
+</depth4>
+<depth4 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_Allocator.h"/>
+<depth4 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_RefCount.h"/>
+<depth4 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_Log.h">
+<depth5 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\../Kernel/OVR_Delegates.h"/>
+<depth5 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\../Kernel//OVR_Observer.h">
+<depth6 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Atomic.h"/>
+<depth6 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Array.h">
+<depth7 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_ContainerAllocator.h"/>
+</depth6>
+<depth6 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_String.h">
+<depth7 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_UTF8Util.h"/>
+<depth7 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Std.h">
+<depth8 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\wctype.h">
+<depth9 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth8>
+</depth7>
+<depth7 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Alg.h"/>
+</depth6>
+<depth6 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_Hash.h"/>
+</depth5>
+</depth4>
+<depth4 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_Math.h">
+<depth5 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\assert.h">
+<depth6 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h"/>
+</depth5>
+<depth5 src="C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h"/>
+</depth4>
+<depth4 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_System.h"/>
+<depth4 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_Timer.h"/>
+<depth4 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\include\../Src/Kernel/OVR_SysFile.h">
+<depth5 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\kernel\OVR_File.h"/>
+</depth4>
+</depth3>
+<depth3 src="D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Src\Kernel/OVR_KeyCodes.h"/>
+<depth3 src="d:\iq3\immersiveq\immersiveprototype\3rdparty\util\../Render/Render_Device.h">
+<depth4 src="D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Src\Kernel/OVR_Color.h"/>
+<depth4 src="D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Src\OVR_CAPI.h">
+<depth5 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\OVR_CAPI_Keys.h"/>
+</depth4>
+<depth4 src="D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Src\OVR_Stereo.h">
+<depth5 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\Sensors/OVR_DeviceConstants.h"/>
+<depth5 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\Displays/OVR_Display.h"/>
+<depth5 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\OVR_Profile.h">
+<depth6 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\OVR_CAPI_Keys.h"/>
+<depth6 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\Kernel/OVR_StringHash.h"/>
+</depth5>
+</depth4>
+</depth3>
+<depth3 src="d:\iq3\immersiveq\immersiveprototype\3rdparty\util\../Platform/Gamepad.h"/>
+<depth3 src="d:\iq3\immersiveq\immersiveprototype\3rdparty\util\../Platform/Platform.h"/>
+<depth3 src="D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Src\Util/Util_Render_Stereo.h">
+<depth4 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\util\../Tracking/Tracking_SensorStateReader.h">
+<depth5 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\tracking\../Kernel/OVR_Lockless.h"/>
+<depth5 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\tracking\Tracking_SensorState.h">
+<depth6 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\tracking\Tracking_PoseState.h"/>
+<depth6 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\tracking\../Kernel/OVR_SharedMemory.h"/>
+<depth6 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\tracking\../Util/Util_LatencyTest2State.h"/>
+</depth5>
+</depth4>
+</depth3>
+</depth2>
+<depth2 src="D:\iQ3\immersiveQ\ImmersivePrototype\3rdparty\Util/RenderProfiler.h"/>
+<depth2 src="d:\iq3\immersiveq\immersiveprototype\Player.h">
+<depth3 src="D:\Qt\Qt5.4.0\5.4\msvc2013_64\include\QtCore\QtGlobal"/>
+</depth2>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkRenderingOpenGLModule.h"/>
+<depth2 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkOpenGLRenderer.h"/>
+</depth1>
+<depth1 src="D:\iQ3\immersiveQ\ImmersivePrototype\3rdparty\Render/Render_GL_Device.h">
+<depth2 src="D:\iQ3\immersiveQ\SDK\OculusSDK\LibOVR\Src\CAPI/GL/CAPI_GLE.h">
+<depth3 src="d:\iq3\immersiveq\sdk\oculussdk\libovr\src\capi\gl\CAPI_GLE_GL.h"/>
+</depth2>
+</depth1>
+<depth1 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkObjectFactory.h"/>
+<depth1 src="D:\iQ3\immersiveQ\SDK\CAPRI_V3.16.3_SIK\include\capri.h">
+<depth2 src="d:\iq3\immersiveq\sdk\capri_v3.16.3_sik\include\capri_codes.h">
+<depth3 src="d:\iq3\immersiveq\sdk\capri_v3.16.3_sik\include\capri_version.h"/>
+</depth2>
+</depth1>
+<depth1 src="D:\iQ3\slicer\VTKv7_debug_out\include\vtkOpenGLError.h">
+<depth2 src="d:\iq3\slicer\vtkv7_debug_out\include\vtk_glew.h">
+</depth2>
+</depth1>
+</depth0>
+</root>
